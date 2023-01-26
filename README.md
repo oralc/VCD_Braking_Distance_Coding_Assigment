@@ -5,7 +5,7 @@
 _Spyder - (Python 3.7)_
 
 **How to Run:**
-Step_1: Please, save the code locally to use argparser/n 
+Step_1: Please, save the code locally to use argparser\n
 Step_2: Run the code with desired inputs in the console. (Please find the example command code below) 
 E.g: runfile('vcd_code.py', '--initial_velocity_kmh 50 --mass 1100 --road_type concrete --weather dry --angle 0')
 
