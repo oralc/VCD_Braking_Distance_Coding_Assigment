@@ -1,10 +1,10 @@
-# VCD_Assigment - ORAL Talat Cagil / 2210787021
+# VCD_Assigment - ORAL Talat Cagil / 2210787021<br />
 
-**Time-based Simulation of Braking Distance**
+**Time-based Simulation of Braking Distance**<br />
 
-_Spyder - (Python 3.7)_
+_Spyder - (Python 3.7)_<br />
 
-**How to Run:**
+**How to Run:**<br />
 Step_1: Please, save the code locally to use argparser<br />
 Step_2: Run the code with desired inputs in the console. (Please find the example command code below)<br />
 E.g: runfile('vcd_code.py', '--initial_velocity_kmh 50 --mass 1100 --road_type concrete --weather dry --angle 0')<br /><br />
