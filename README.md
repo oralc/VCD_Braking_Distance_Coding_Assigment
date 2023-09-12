@@ -20,7 +20,3 @@ E.g: runfile('vcd_code.py', '--initial_velocity_kmh 50 --mass 1100 --road_type c
   The code calculates the distance traveled and the decrease in velocity in the time step until the vehicle comes to stop with a while loop.<br />
   Then, it plots the velocity and distance as a time-based simulation.<br /><br /><br />
   
-
-
-
-Thank you.
