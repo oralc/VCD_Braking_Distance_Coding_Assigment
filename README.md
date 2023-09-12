@@ -1,4 +1,4 @@
-# VCD_Assigment - ORAL Talat Cagil / 2210787021<br />
+# VCD_Assigment - ORAL Cagil / 2210787021<br />
 
 **Time-based Simulation of Braking Distance**<br />
 
